@@ -1,0 +1,79 @@
+{
+    "MenuID":"{4A68F85A-2068-4149-A985-AADDE7AAC133}",
+    "RuleID":"{F2034471-B84F-4B0D-8EAF-C026F3791F72}",
+    "Caption":"544",
+    "CaptionShow":"【GD010101】544",
+    "BusinessCode":"GD010101",
+    "PlatformType":28,
+    "Link":"",
+    "Index":0,
+    "Message":"",
+    "Class":"EtpApi",
+    "CreateTime":"2022-02-13 19:36:22",
+    "CreateUser":"xueyy",
+    "ModifyTime":"2022-02-13 19:37:06",
+    "ModifyMachine":"10.106.0.93",
+    "ModifyUser":"xueyy",
+    "Using":true,
+    "FileRule":null,
+    "MatchRule":{
+        "AliasRow":0,
+        "StartRow":0,
+        "EndRow":0,
+        "StartColumn":0,
+        "EndColumn":0,
+        "GroupNum":0,
+        "ColumnHeader":0,
+        "CombineRow":"",
+        "CombineColumn":"",
+        "SplitTable":null,
+        "FilterRows":[
+
+        ],
+        "FilterColumns":[
+
+        ],
+        "Formulas":[
+
+        ],
+        "SourceFormulas":[
+
+        ]
+    },
+    "TableRule":{
+        "TableName":"usrABSJYJGT",
+        "Caption":"ABS交易结构图",
+        "DataMode":0,
+        "OperateType":0,
+        "Formulas":[
+
+        ],
+        "TargetFormulas":[
+
+        ],
+        "FilterRows":[
+
+        ],
+        "LastFormulas":[
+
+        ],
+        "Uniques":[
+
+        ],
+        "CommitCount":500,
+        "Transaction":true,
+        "AllConver":false,
+        "GKBZ":false,
+        "BulkSave":false,
+        "RetrySave":false,
+        "Distinct":false,
+        "OverwriteLaborData":false,
+        "ZeroEqualNull":false,
+        "ExtendData":"",
+        "ReloadDB":false
+    },
+    "FieldRule":[
+
+    ],
+    "Expand":""
+}

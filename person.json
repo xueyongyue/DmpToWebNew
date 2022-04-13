@@ -1,0 +1,1 @@
+{"MenuID": "{4A68F85A-2068-4149-A985-AADDE7AAC133}", "MatchRule": {}, "FieldRule": [], "Caption": "cs", "Message": "", "PlatformType": 27, "TableRule": {"TableName": "usrABSCFSX", "Transaction": "true", "CommitCount": 500, "OperateType": 2, "Caption": "ABS\u507f\u4ed8\u987a\u5e8f"}, "CreateUser": "xueyy"}
